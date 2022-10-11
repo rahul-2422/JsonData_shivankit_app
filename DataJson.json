@@ -1,0 +1,231 @@
+[
+    {
+        "acitivityTitle": "STEPS",
+        "acitivityIcon": "figure.walk",
+        "activityColor": "Color.cyan",
+        "activityValue": [
+            2000
+        ],
+        "activityValueUnit": [
+            "Steps"
+        ],
+        "lastUpdatedTime": "",
+        "activityGoal": 8000,
+        "activityGoalUnit": "Steps",
+        "activityType": "STEPS",
+        "activityGraph": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            25,
+            45,
+            0,
+            30,
+            20,
+            0,
+            40,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "additionalStats": [
+            {
+                "value": [
+                    1.7
+                ],
+                "label": "Distance",
+                "units": [
+                    "yd"
+                ],
+                "icon": "mappin.circle.fill"
+            },
+            {
+                "value": [
+                    145
+                ],
+                "label": "Calories",
+                "units": [
+                    "kcal"
+                ],
+                "icon": "flame.circle.fill"
+            },
+            {
+                "value": [
+                    34
+                ],
+                "label": "Time",
+                "units": [
+                    "min"
+                ],
+                "icon": "clock.fill"
+            }
+        ]
+    },
+    {
+        "acitivityTitle": "SLEEP",
+        "acitivityIcon": "moon.fill",
+        "activityColor": "Color.purple",
+        "activityValue": [
+            0,
+            0
+        ],
+        "activityValueUnit": [
+            "H",
+            "M"
+        ],
+        "lastUpdatedTime": "",
+        "activityGoal": 8,
+        "activityGoalUnit": "Hours",
+        "activityType": "SLEEP",
+        "activityGraph": [],
+        "additionalStats": []
+    },
+    {
+        "acitivityTitle": "HEART RATE",
+        "acitivityIcon": "heart.fill",
+        "activityColor": "Color.pink",
+        "activityValue": [
+            88
+        ],
+        "activityValueUnit": [
+            "BPM"
+        ],
+        "lastUpdatedTime": "",
+        "activityGoal": 0,
+        "activityGoalUnit": "Heart Rate",
+        "activityType": "HEART RATE",
+        "activityGraph": [
+            58,
+            58,
+            58,
+            58,
+            58
+        ],
+        "additionalStats": []
+    },
+    {
+        "acitivityTitle": "BP",
+        "acitivityIcon": "drop.fill",
+        "activityColor": "Color.blue",
+        "activityValue": [
+            102,
+            63
+        ],
+        "activityValueUnit": [
+            "mmHg"
+        ],
+        "lastUpdatedTime": "",
+        "activityGoal": 0,
+        "activityGoalUnit": "SBP/DBP",
+        "activityType": "BP",
+        "activityGraph": [
+            63,
+            39
+        ],
+        "additionalStats": []
+    },
+    {
+        "acitivityTitle": "BLOOD OXYGEN",
+        "acitivityIcon": "drop.fill",
+        "activityColor": "Color.green",
+        "activityValue": [
+            97
+        ],
+        "activityValueUnit": [
+            "%"
+        ],
+        "lastUpdatedTime": "",
+        "activityGoal": 0,
+        "activityGoalUnit": "95-100%",
+        "activityType": "BLOOD OXYGEN",
+        "activityGraph": [
+            97
+        ],
+        "additionalStats": []
+    },
+    {
+        "acitivityTitle": "OUTDOOR RUNNING",
+        "acitivityIcon": "drop.fill",
+        "activityColor": "Color.yellow",
+        "activityValue": [
+            0
+        ],
+        "activityValueUnit": [
+            "yd"
+        ],
+        "lastUpdatedTime": "",
+        "activityGoal": 0,
+        "activityGoalUnit": "Mileage",
+        "activityType": "OUTDOOR RUNNING",
+        "activityGraph": [],
+        "additionalStats": [
+            {
+                "value": [
+                    1,
+                    15
+                ],
+                "label": "Time",
+                "units": [
+                    "H",
+                    "M"
+                ],
+                "icon": "clock.fill"
+            },
+            {
+                "value": [
+                    45
+                ],
+                "label": "Pace",
+                "units": [
+                    "min/miles"
+                ],
+                "icon": "bolt.circle.fill"
+            },
+            {
+                "value": [
+                    134
+                ],
+                "label": "Consumption",
+                "units": [
+                    "Kcal"
+                ],
+                "icon": "flame.circle.fill"
+            }
+        ]
+    }
+]
